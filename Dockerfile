@@ -1,7 +1,7 @@
 FROM 2dotstwice/nginx
 
 MAINTAINER Kristof Coomans "kristof@2dotstwice.be"
-ENV REFRESHED_AT "2017-02-04 11:13:00"
+ENV REFRESHED_AT "2017-02-25 07:06:00"
 
 RUN DEBIAN_FRONTEND=noninteractive apt-get -y update
 RUN DEBIAN_FRONTEND=noninteractive apt-get -y -q install software-properties-common
