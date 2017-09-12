@@ -13,6 +13,7 @@ server {
       application/javascript
       application/vnd.ms-fontobject
       application/x-font-ttf
+      application/x-javascript
       application/x-web-app-manifest+json
       application/xhtml+xml
       application/xml
